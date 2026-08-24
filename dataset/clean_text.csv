@@ -1,0 +1,80 @@
+clean_text
+"Large Language Models (LLMs) are advanced AI systems built on deep neural networks designed to process, understand and generate human-like text."
+"LLMs Learn patterns, grammar and context from text and can answer questions, write content, translate languages and many more."
+"By using massive datasets and billions of parameters, LLMs have transformed the way humans interact with technology."
+"Modern LLMs include ChatGPT (OpenAI), Google Gemini, Anthropic Claude, etc."
+LLM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Working of LLM
+"LLMs are primarily based on the Transformer architecture which enables them to learn long range dependencies and contextual meaning in text. At a high level, they work through"
+Working
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Input Embeddings: Converting text into numerical vectors.
+Positional Encoding: Adding sequence/order information.
+Self-Attention: Understanding relationships between words in context.
+Feed-Forward Layers: Capturing complex patterns.
+Decoding: Generating responses step by step.
+Multi-Head Attention: Parallel reasoning over multiple relationships.
+Popular LLMs
+GPT-4 and GPT-4o (OpenAI): Advanced multimodal reasoning and dialogue capabilities.
+"Gemini 1.5 (Google DeepMind): Long-context reasoning, capable of handling 1M+ tokens."
+"Claude 3 (Anthropic): Safety-focused, strong at reasoning and summarization."
+"LLaMA 3 (Meta): Open-weight model, popular in research and startups."
+Mistral 7B / Mixtral (Mistral AI): Efficient open-source alternatives for developers.
+BERT and RoBERTa (Google/Facebook): Strong embedding models for NLP tasks.
+mBERT and XLM-R: Early multilingual LLMs.
+"BLOOM: Large open-source multilingual model, collaboratively developed."
+Applications
+Code Generation: LLMs can generate accurate code based on user instructions for specific tasks.
+"Debugging and Documentation: They assist in identifying code errors, suggesting fixes and even automating project documentation."
+"Question Answering: Users can ask both casual and complex questions, receiving detailed, context-aware responses."
+Language Translation and Correction: LLMs can translate across many languages (often dozens to 100+).
+"Prompt-Based Versatility: By crafting creative prompts, users can unlock endless possibilities, as LLMs excel in one-shot and zero-shot learning scenarios."
+Advantages
+Can perform new tasks using zero-shot and few-shot learning without retraining
+Efficiently process and understand large amounts of text data
+Adapt easily to specific domains through fine-tuning
+"Automate repetitive language-based tasks, reducing human effort"
+"Work effectively across multiple domains like healthcare, education and business"
+Limitations
+"Require very high computational resources, making them expensive to train"
+"Training can take a long time, often weeks or months"
+Depend on large amounts of high-quality and unbiased data
+"Consume significant energy, contributing to environmental impact"
+"Can introduce bias and misinformation, raising ethical concerns"
